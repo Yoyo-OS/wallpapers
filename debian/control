@@ -1,15 +1,15 @@
-Source: cutefish-wallpapers
+Source: yoyo-wallpapers
 Section: devel
 Priority: optional
-Maintainer: CutefishOS <support@cutefishos.com>
+Maintainer: YoyoOS <support@yoyoos.com>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules
 Standards-Version: 4.5.0
-Homepage: https://cutefishos.com
+Homepage: https://yoyoos.com
 
-Package: cutefish-wallpapers
+Package: yoyo-wallpapers
 Architecture: any
 Depends: ${misc:Depends},
          ${shlibs:Depends}
-Description: CutefishOS Wallpapers
+Description: YoyoOS Wallpapers

@@ -1,6 +1,6 @@
-# CutefishOS Wallpaper
+# YoyoOS Wallpaper
 
-CutefishOS's system wallpaper.
+YoyoOS's system wallpaper.
 
 ## License
 

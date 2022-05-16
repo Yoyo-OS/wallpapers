@@ -14,4 +14,4 @@ set(BACKGROUNDS
 	wallpaper-9.jpg
 )
 
-install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/cutefishos)
+install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/yoyoos)
